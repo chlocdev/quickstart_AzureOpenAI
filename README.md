@@ -1,0 +1,2 @@
+# quickstart_AzureOpenAI
+AzureOpenAI
